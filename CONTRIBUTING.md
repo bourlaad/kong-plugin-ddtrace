@@ -1,6 +1,5 @@
 Contributing to kong-plugin-ddtrace
 ===================================
-
 Pull requests for bug fixes are welcome.
 
 Before submitting new features or changes to current functionality, [open an
