@@ -1,6 +1,6 @@
-# Add trace_id and span_id for nginx proxy logs
+# Log Correlation using NGINX variables
 
-This is a `docker compose` setup that showcases how to add trace_id and span_id to the nginx logs. The kong config will
+This is a `docker compose` setup that showcases how to add `trace_id` and `span_id` to the nginx logs.
 
 ## How to run the example
 
